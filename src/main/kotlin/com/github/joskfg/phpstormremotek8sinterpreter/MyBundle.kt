@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.joskfg.phpstormremotek8sinterpreter
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls

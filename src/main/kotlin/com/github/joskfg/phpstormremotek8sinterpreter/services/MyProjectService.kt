@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.joskfg.phpstormremotek8sinterpreter.services
 
+import com.github.joskfg.phpstormremotek8sinterpreter.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 
